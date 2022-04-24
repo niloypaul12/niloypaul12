@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niloypaul12
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m learning Web Development
+- 🌱 I have Python learnings
 - 💞️ I’m looking to collaborate on web Development
 - 📫 How to reach me : niloypaul0763@gmail.com
 
